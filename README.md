@@ -10,7 +10,7 @@ projeto de site
 </head>
 <body>
 <header>
-<h1>Meu blog</h1>
+<h1>Mundo Dos Carros</h1>
 <nav> <a href="#">Inicio</a>
 
 </nav>
@@ -34,7 +34,7 @@ Os carros, portanto, são muito mais do que simples máquinas: eles fazem parte 
 
 </div>
 <div>
-<img src="https://blog.aricanduva.com.br/wp-content/uploads/2023/06/Tiggo8-min.jpg">
+<img src="https://www.fiat.com.br/content/dam/fiat/pulse-my26/assets-home/carrossel/pulse-my26-audace.webp">
 <div>
 <img src=https://classic.exame.com/wp-content/uploads/2024/10/2025-mclaren-w1.jpg"">
 </div>
