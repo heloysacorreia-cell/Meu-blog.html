@@ -36,7 +36,7 @@ Os carros, portanto, são muito mais do que simples máquinas: eles fazem parte 
 <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEgRkcgDtLZp3yajE6tCo4mBUfuTqri4QwoA9zNv2m44CBuPnwve5CwTz&s=10">
 <div>
-<img src=https://classic.exame.com/wp-content/uploads/2024/10/2025-mclaren-w1.jpg"">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjme2aChRJrxkXzggs9hide3lK0Z8ACOIZTjd5oO12D3Xzx7RHRyQLvfh5&s=10">
 </div>
 </div>
 </div>
