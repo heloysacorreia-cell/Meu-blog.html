@@ -21,14 +21,22 @@ projeto de site
 <article>
 <div>
 <img src="https://carsoul.com.br/wp-content/uploads/2023/09/image-1024x683.png">
-<p>Flores cor de rosa</p>
-<div>
+<p></p>
+<Carros
+
+Os carros fazem parte do nosso dia a dia e são muito importantes para a sociedade. Eles facilitam a locomoção das pessoas, permitindo que viajemos para diferentes lugares com mais rapidez e conforto.
+
+Existem diversos tipos de carros, como modelos esportivos, familiares, econômicos, elétricos e de luxo. Cada um possui características diferentes e atende às necessidades de seus motoristas. Atualmente, os carros também estão cada vez mais modernos, contando com tecnologias como câmeras, sensores, sistemas de segurança e conectividade.
+
+Além de serem meios de transporte, os carros também despertam a paixão de muitas pessoas. Para alguns, eles representam liberdade, aventura e diversão. Por isso, a indústria automobilística continua evoluindo e desenvolvendo veículos mais seguros, econômicos e sustentáveis.
+
+Os carros, portanto, são muito mais do que simples máquinas: eles fazem parte da história, da tecnologia e da vida cotidiana de milhões de pessoas.>
 
 </div>
 <div>
 <img src="https://blog.autocompara.com.br/wp-content/uploads/2024/06/carros-esportivos.jpeg"auroraboreal">
 <div>
-<img src="https://blog.autocompara.com.br/wp-content/uploads/2024/06/carros-esportivos.jpeg"notice">
+<img src=https://classic.exame.com/wp-content/uploads/2024/10/2025-mclaren-w1.jpg"">
 </div>
 </div>
 </div>
