@@ -34,7 +34,7 @@ Os carros, portanto, são muito mais do que simples máquinas: eles fazem parte 
 
 </div>
 <div>
-<img src="https://www.fiat.com.br/content/dam/fiat/pulse-my26/assets-home/carrossel/pulse-my26-audace.webp">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEgRkcgDtLZp3yajE6tCo4mBUfuTqri4QwoA9zNv2m44CBuPnwve5CwTz&s=10">
 <div>
 <img src=https://classic.exame.com/wp-content/uploads/2024/10/2025-mclaren-w1.jpg"">
 </div>
