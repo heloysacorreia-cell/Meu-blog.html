@@ -35,7 +35,18 @@ Os carros, portanto, são muito mais do que simples máquinas: eles fazem parte 
 </div>
 <div>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHEgRkcgDtLZp3yajE6tCo4mBUfuTqri4QwoA9zNv2m44CBuPnwve5CwTz&s=10">
-<div>
+<Koenigsegg
+
+A Koenigsegg é uma fabricante sueca de carros esportivos de alto desempenho, conhecida por produzir alguns dos automóveis mais rápidos e exclusivos do mundo. A empresa foi fundada em 1994 por Christian von Koenigsegg, com o objetivo de criar carros excepcionais, combinando velocidade, tecnologia e design.
+
+Os carros da Koenigsegg se destacam pela utilização de materiais leves, como fibra de carbono, além de motores extremamente potentes e tecnologias avançadas. Entre seus modelos mais famosos estão o Agera RS, o Jesko e o Regera. Alguns desses veículos alcançam velocidades impressionantes e possuem preços muito elevados, sendo produzidos em quantidades limitadas.
+
+A marca também é conhecida por desenvolver soluções inovadoras para seus automóveis. Um exemplo é o sistema de portas chamado dihedral synchro-helix, que permite que as portas se movimentem para cima e para fora de uma maneira bastante característica.
+
+Além da velocidade, a Koenigsegg busca melhorar a eficiência de seus veículos. O Regera, por exemplo, utiliza um sistema híbrido que combina um motor a combustão com motores elétricos.
+
+Por sua inovação, exclusividade e desempenho, a Koenigsegg se tornou uma das marcas mais admiradas do mundo dos supercarros. Seus veículos representam uma combinação de engenharia, tecnologia e design, mostrando até onde a indústria automobilística pode chegar.>
+  
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSjme2aChRJrxkXzggs9hide3lK0Z8ACOIZTjd5oO12D3Xzx7RHRyQLvfh5&s=10">
 </div>
 </div>
