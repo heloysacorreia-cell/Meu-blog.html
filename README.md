@@ -34,7 +34,7 @@ Os carros, portanto, são muito mais do que simples máquinas: eles fazem parte 
 
 </div>
 <div>
-<img src="https://blog.autocompara.com.br/wp-content/uploads/2024/06/carros-esportivos.jpeg"auroraboreal">
+<img src="https://blog.aricanduva.com.br/wp-content/uploads/2023/06/Tiggo8-min.jpg">
 <div>
 <img src=https://classic.exame.com/wp-content/uploads/2024/10/2025-mclaren-w1.jpg"">
 </div>
