@@ -20,7 +20,7 @@ projeto de site
 <section>
 <article>
 <div>
-<img src="https://images.pexels.com/photos/31770134/pexels-photo-31770134.jpeg&quot; alt="flores" clas="cartao-imagem">
+<img src="https://carsoul.com.br/wp-content/uploads/2023/09/image-1024x683.png">
 <p>Flores cor de rosa</p>
 <div>
 
