@@ -26,7 +26,7 @@ projeto de site
 
 </div>
 <div>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTwjWDQ-kHctvDfPNuxGqe2GGN49awr-oNgig&s&quot; alt="auroraboreal">
+<img src="https://blog.autocompara.com.br/wp-content/uploads/2024/06/carros-esportivos.jpeg"auroraboreal">
 <div>
 <img src="https://blog.autocompara.com.br/wp-content/uploads/2024/06/carros-esportivos.jpeg"notice">
 </div>
